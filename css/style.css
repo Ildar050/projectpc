@@ -367,7 +367,29 @@ line-height: 115%;
    background: rgba(255, 255, 255, 0.2);
  }
 
- 
+.popular__header {
+  font-weight: 700;
+  font-size: 1rem;
+  line-height: 120%;
+}
+
+.popular__date {
+  font-weight: 700;
+  font-size: 0.8rem;
+  line-height: 113%;
+}
+
+.popular__rating {
+  display: flex;
+  align-items: center;
+}
+
+.popular__rating span {
+  font-weight: 700;
+  font-size: 1rem;
+  line-height: 120%;
+  margin-left: 0.4rem;
+}
 
 
 
